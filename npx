@@ -1,0 +1,10 @@
+
+  \{^_^}/ hi!
+
+  Loading data/gamedb.json
+  Done
+Error: Data must be an object. Found object.See https://github.com/typicode/json-server for example.
+    at module.exports (C:\Users\erkan\AppData\Roaming\npm\node_modules\json-server\lib\server\router\validate-data.js:16:11)
+    at Object.module.exports [as router] (C:\Users\erkan\AppData\Roaming\npm\node_modules\json-server\lib\server\router\index.js:46:3)
+    at createApp (C:\Users\erkan\AppData\Roaming\npm\node_modules\json-server\lib\cli\run.js:52:29)
+    at C:\Users\erkan\AppData\Roaming\npm\node_modules\json-server\lib\cli\run.js:134:13
